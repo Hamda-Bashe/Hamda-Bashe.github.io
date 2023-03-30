@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamda Bashe</h1>
 <h3 align="center">A passionate full stack developer from Somaliland</h3>
-<img align="right" alt="programming" width="400" src="https://www.betterteam.com/images/asp-net-developer-interview-questions-5568x3712-20201217.jpeg?crop=2:1,smart&width=949&dpr=2"
+<img align="right" alt="programming" width="400" src="https://www.betterteam.com/images/asp-net-developer-interview-questions-5568x3712-20201217.jpeg?crop=2:1,smart&width=949&dpr=2"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamda-bashe&label=Profile%20views&color=0e75b6&style=flat" alt="hamda-bashe" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **my own ecommerce website**
 
-- 🌱 I’m currently learning **TypeScript,Nextjs**
+- 🌱 I’m currently learning **TypeScript, Nextjs**
 
 - 💬 Ask me about **MERN Stack**
 
