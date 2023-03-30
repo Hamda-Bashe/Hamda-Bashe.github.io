@@ -1,4 +1,5 @@
-![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)(https://hamdabashe.io)
+![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)(https://
+Hamda-Bashe.github.io)
 
 <h1 align="center">Hi 👋, I'm Hamda Bashe</h1>
 <h3 align="center">A passionate full stack developer from Somaliland</h3>
