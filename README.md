@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamda Bashe</h1>
 <h3 align="center">A passionate full stack developer from Somaliland</h3>
-<img align="right" alt="programming" width="400" src="[https://static.vecteezy.com/system/resources/thumbnails/000/227/854/small/female-developer-vector.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhYw6NixGQKROYDP6aTt51RDXXZc3O4uBQA&usqp=CAU)"
+<img align="right" alt="programming" width="400" src="https://www.betterteam.com/images/asp-net-developer-interview-questions-5568x3712-20201217.jpeg?crop=2:1,smart&width=949&dpr=2"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamda-bashe&label=Profile%20views&color=0e75b6&style=flat" alt="hamda-bashe" /> </p>
 
